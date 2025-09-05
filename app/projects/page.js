@@ -8,7 +8,7 @@ const Projects = () => {
     {
       title: 'E-Commerce Platform',
       description: 'Full-stack e-commerce solution with user authentication, payment processing, and admin dashboard. Built with modern technologies for optimal performance.',
-      image: '/placeholder.svg',
+      image: "https://cdn.pixabay.com/photo/2019/04/26/07/14/store-4156934_1280.png",
       tech: ['React', 'Node.js', 'MongoDB', 'Stripe', 'Tailwind CSS'],
       github: '#',
       demo: '#'
@@ -16,7 +16,7 @@ const Projects = () => {
     {
       title: 'Finance Manager App',
       description: 'Personal finance tracking application with expense categorization, budget planning, and financial insights. Features real-time data visualization.',
-      image: '/placeholder.svg',
+      image: "https://cdn.pixabay.com/photo/2024/07/22/09/01/report-8912166_1280.png",
       tech: ['Next.js', 'TypeScript', 'PostgreSQL', 'Chart.js', 'Prisma'],
       github: '#',
       demo: '#'
@@ -24,7 +24,8 @@ const Projects = () => {
     {
       title: 'Time Management Tool',
       description: 'Productivity application with task scheduling, time tracking, and team collaboration features. Includes analytics and reporting capabilities.',
-      image: '/placeholder.svg',
+
+      image: 'https://images.unsplash.com/photo-1626460561069-c86d94488bbd?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       tech: ['React', 'Express.js', 'MySQL', 'Socket.io', 'Material-UI'],
       github: '#',
       demo: '#'
@@ -32,7 +33,7 @@ const Projects = () => {
     {
       title: 'Social Media Dashboard',
       description: 'Analytics dashboard for social media management with multi-platform integration, content scheduling, and performance tracking.',
-      image: '/placeholder.svg',
+      image: 'https://images.unsplash.com/photo-1708447134640-2b57ad0dd846?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       tech: ['Vue.js', 'Python', 'Django', 'Redis', 'D3.js'],
       github: '#',
       demo: '#'
